@@ -10,3 +10,4 @@ Developer process:
 
 1) Create a Github repository with a README.md file.
 2) Clone the repository in a local directory.
+3) Transform the first User Story into a Domain Model. 
